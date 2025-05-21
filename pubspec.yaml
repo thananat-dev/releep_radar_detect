@@ -1,5 +1,5 @@
 name: releep_radar_detect
-description: "A new Flutter plugin project."
+description: "Flutter plugin to Connect and sync data from releep radar."
 version: 0.0.1
 homepage: https://github.com/thananat-dev/releep_radar_detect
 
