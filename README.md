@@ -2,7 +2,7 @@
 
 Flutter plugin to Connect and sync data from releep radar.
 
-[![pub package](https://img.shields.io/badge/pub-v0.1.5-blue)](https://pub.dev/packages/releep_radar_connect)
+[![pub package](https://img.shields.io/badge/pub-v0.0.1-blue)](https://pub.dev/packages/releep_radar_detect)
 
 ## Getting Started
 
