@@ -2,6 +2,8 @@
 
 A new Flutter plugin project.
 
+[![pub package](https://img.shields.io/badge/pub-v0.1.5-blue)](https://pub.dev/packages/releep_radar_connect)
+
 ## Getting Started
 
 This project is a starting point for a Flutter
